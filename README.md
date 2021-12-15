@@ -5,4 +5,4 @@ The Bank Marketing campaigns are one of the sales technique used for the banks t
 
 Google Colab Notebook Link: https://colab.research.google.com/drive/16rKdJkT8w1JX7JIxRo8r-j39GWzsvNQv#scrollTo=KW74oBbzUoDc
 
-Video URL:
+Video URL: https://youtu.be/luKXP4Qm57M
